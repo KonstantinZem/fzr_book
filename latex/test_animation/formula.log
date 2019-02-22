@@ -1,0 +1,290 @@
+This is pdfTeX, Version 3.1415926-2.4-1.40.13 (TeX Live 2012/ROSA) (format=pdflatex 2017.5.28)  15 JUN 2017 17:28
+entering extended mode
+ \write18 enabled.
+ %&-line parsing enabled.
+**formula.tex
+(./formula.tex
+LaTeX2e <2011/06/27>
+Babel <3.9h> and hyphenation patterns for 78 languages loaded.
+(/usr/share/texmf-dist/tex/latex/base/report.cls
+Document Class: report 2007/10/19 v1.4h Standard LaTeX document class
+(/usr/share/texmf-dist/tex/latex/base/size12.clo
+File: size12.clo 2007/10/19 v1.4h Standard LaTeX file (size option)
+)
+\c@part=\count79
+\c@chapter=\count80
+\c@section=\count81
+\c@subsection=\count82
+\c@subsubsection=\count83
+\c@paragraph=\count84
+\c@subparagraph=\count85
+\c@figure=\count86
+\c@table=\count87
+\abovecaptionskip=\skip41
+\belowcaptionskip=\skip42
+\bibindent=\dimen102
+)
+(/usr/share/texmf-dist/tex/latex/xymtex/base/xymtex.sty
+Package `xymtex' (ver5.01) <March 10, 2013> [SF]
+xymtex.sty ver5.01 (for LaTeX2e) 2013/03/10[SF]
+(/usr/share/texmf-dist/tex/latex/eepic/epic.sty
+Enhancements to Picture Environment. Version 1.2 - Released June 1, 1986
+\@@multicnt=\count88
+\d@lta=\count89
+\@delta=\dimen103
+\@@delta=\dimen104
+\@gridcnt=\count90
+\@joinkind=\count91
+\@dotgap=\dimen105
+\@ddotgap=\dimen106
+\@x@diff=\count92
+\@y@diff=\count93
+\x@diff=\dimen107
+\y@diff=\dimen108
+\@dotbox=\box26
+\num@segments=\count94
+\num@segmentsi=\count95
+\@datafile=\read1
+) (/usr/share/texmf-dist/tex/latex/xymtex/base/chemstr.sty
+XyMTeX for Drawing Chemical Structural Formulas. Version 5.01
+ -- Released June 19, 2013 by Shinsaku Fujita
+XyMTeX Macro File `chemstr' (ver5.01) <June 19, 2013> [SF]
+\@tempcntXa=\count96
+\@tempcntYa=\count97
+\@tempcntz=\count98
+\@tempcntXb=\count99
+\@tempcntYb=\count100
+\@tempcntzz=\count101
+\@tempcntXc=\count102
+\@tempcntYc=\count103
+\@tempcntzzz=\count104
+\@tempcntXd=\count105
+\@tempcntYd=\count106
+\@tempcntzzzz=\count107
+\@dimtempa=\dimen109
+\@tempdimd=\dimen110
+\@tempdime=\dimen111
+\@cnttempa=\count108
+\@cnttempb=\count109
+\noshift=\count110
+\shifti=\count111
+\shiftii=\count112
+\shiftiii=\count113
+\@tmpaa=\count114
+\yl@xdiff=\count115
+\yl@ydiff=\count116
+\yl@shiftii=\count117
+\yl@shifti=\count118
+(/usr/share/texmf-dist/tex/latex/xcolor/xcolor.sty
+Package: xcolor 2007/01/21 v2.11 LaTeX color extensions (UK)
+
+(/usr/share/texmf-dist/tex/latex/latexconfig/color.cfg
+File: color.cfg 2007/01/18 v1.5 color configuration of teTeX/TeXLive
+)
+Package xcolor Info: Driver file: pdftex.def on input line 225.
+
+(/usr/share/texmf-dist/tex/latex/pdftex-def/pdftex.def
+File: pdftex.def 2011/05/27 v0.06d Graphics/color for pdfTeX
+
+(/usr/share/texmf-dist/tex/generic/oberdiek/infwarerr.sty
+Package: infwarerr 2010/04/08 v1.3 Providing info/warning/error messages (HO)
+)
+(/usr/share/texmf-dist/tex/generic/oberdiek/ltxcmds.sty
+Package: ltxcmds 2011/11/09 v1.22 LaTeX kernel commands for general use (HO)
+)
+\Gread@gobject=\count119
+)
+Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1337.
+Package xcolor Info: Model `hsb' substituted by `rgb' on input line 1341.
+Package xcolor Info: Model `RGB' extended on input line 1353.
+Package xcolor Info: Model `HTML' substituted by `rgb' on input line 1355.
+Package xcolor Info: Model `Hsb' substituted by `hsb' on input line 1356.
+Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1357.
+Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1358.
+Package xcolor Info: Model `Gray' substituted by `gray' on input line 1359.
+Package xcolor Info: Model `wave' substituted by `hsb' on input line 1360.
+)
+\x@ryl=\count120
+\y@ryl=\count121
+)
+(/usr/share/texmf-dist/tex/latex/xymtex/base/carom.sty
+XyMTeX for Drawing Chemical Structural Formulas. Version 5.00
+ -- Released October 01, 2010 by Shinsaku Fujita
+XyMTeX Macro File `carom' (ver5.00) <October 01, 2010> [SF]
+(/usr/share/texmf-dist/tex/latex/xymtex/base/hetarom.sty
+XyMTeX for Drawing Chemical Structural Formulas. Version 5.01
+ -- Released March 19, 2013 by Shinsaku Fujita
+XyMTeX Macro File `hetarom' (ver5.01) <March 19, 2013> [SF]
+) (/usr/share/texmf-dist/tex/latex/xymtex/base/hetaromh.sty
+XyMTeX for Drawing Chemical Structural Formulas. Version 5.01
+ -- Released March 19, 2013 by Shinsaku Fujita
+XyMTeX Macro File `hetaromh' (ver5.01) <March 19, 2013> [SF]
+)) (/usr/share/texmf-dist/tex/latex/xymtex/base/hetarom.sty
+XyMTeX for Drawing Chemical Structural Formulas. Version 5.01
+ -- Released March 19, 2013 by Shinsaku Fujita
+XyMTeX Macro File `hetarom' (ver5.01) <March 19, 2013> [SF]
+) (/usr/share/texmf-dist/tex/latex/xymtex/base/hetaromh.sty
+XyMTeX for Drawing Chemical Structural Formulas. Version 5.01
+ -- Released March 19, 2013 by Shinsaku Fujita
+XyMTeX Macro File `hetaromh' (ver5.01) <March 19, 2013> [SF]
+) (/usr/share/texmf-dist/tex/latex/xymtex/base/lowcycle.sty
+XyMTeX for Drawing Chemical Structural Formulas. Version 5.00
+ -- Released October 01, 2010 by Shinsaku Fujita
+XyMTeX Macro File `lowcycle' (ver5.00) <October 01, 2010> [SF]
+) (/usr/share/texmf-dist/tex/latex/xymtex/base/ccycle.sty
+XyMTeX for Drawing Chemical Structural Formulas. Version 5.01
+ -- Released July 23, 2013 by Shinsaku Fujita
+XyMTeX Macro File `ccycle' (ver5.01) <July 23, 2013> [SF]
+) (/usr/share/texmf-dist/tex/latex/xymtex/base/hcycle.sty
+XyMTeX for Drawing Chemical Structural Formulas. Version 5.01
+ -- Released June 25, 2013 by Shinsaku Fujita
+XyMTeX Macro File `hcycle' (ver5.01) <June 25, 2013> [SF]
+) (/usr/share/texmf-dist/tex/latex/xymtex/base/aliphat.sty
+XyMTeX for Drawing Chemical Structural Formulas. Version 5.01
+ -- Released July 20, 2013 by Shinsaku Fujita
+XyMTeX Macro File `aliphat' (ver5.01) <July 20, 2013> [SF]
+) (/usr/share/texmf-dist/tex/latex/xymtex/base/locant.sty
+XyMTeX for Drawing Chemical Structural Formulas. Version 5.00
+ -- Released October 01, 2010 by Shinsaku Fujita
+XyMTeX Macro File `locant' (ver4.00) <October 01, 2010> [SF]
+) (/usr/share/texmf-dist/tex/latex/xymtex/base/polymers.sty
+XyMTeX for Drawing Chemical Structural Formulas. Version 5.00
+ -- Released October 01, 2010 by Shinsaku Fujita
+XyMTeX Macro File `polymers' (ver5.00) <October 01, 2010> [SF]
+) (/usr/share/texmf-dist/tex/latex/xymtex/base/methylen.sty
+XyMTeX for Drawing Chemical Structural Formulas. Version 5.01
+ -- Released July 20, 2013 by Shinsaku Fujita
+XyMTeX Macro File `methylen' (ver5.01) <July 20, 2013> [SF]
+\test@termcnt=\count122
+) (/usr/share/texmf-dist/tex/latex/xymtex/base/fusering.sty
+XyMTeX for Drawing Chemical Structural Formulas. Version 5.00
+ -- Released October 01, 2010 by Shinsaku Fujita
+XyMTeX Macro File `fusering' (ver5.00) <October 01, 2010> [SF]
+) (/usr/share/texmf-dist/tex/latex/xymtex/base/sizeredc.sty
+XyMTeX for Drawing Chemical Structural Formulas. Version 5.00
+ -- Released October 01, 2010 by Shinsaku Fujita
+XyMTeX Macro File `sizeredc' (ver5.00) <October 01, 2010> [SF]
+\@tempcntx=\count123
+\@tempcnty=\count124
+\@tempcntz=\count125
+\@xArg=\count126
+\@yArg=\count127
+) (/usr/share/texmf-dist/tex/latex/xymtex/base/steroid.sty
+XyMTeX for Drawing Chemical Structural Formulas. Version 5.00
+ -- Released October 01, 2010 by Shinsaku Fujita
+XyMTeX Macro File `steroid' (ver5.00) <October 01, 2010> [SF]
+) (/usr/share/texmf-dist/tex/latex/xymtex/base/lewisstruc.sty
+Part of XyMTeX for Drawing Chemical Structural Formulas. Version 5.01
+ -- Released August 02, 2013 by Shinsaku Fujita
+XyMTeX Macro File `lewisstruc' (ver5.01) <August 02, 2013> [SF]
+) (/usr/share/texmf-dist/tex/latex/xymtex/base/bondcolor.sty
+Part of XyMTeX for Drawing Chemical Structural Formulas. Version 5.00
+ -- Released October 01, 2010 by Shinsaku Fujita
+XyMTeX Macro File `bondcolor' (ver5.00) <October 01, 2010> [SF]
+) (/usr/share/texmf-dist/tex/latex/xymtex/base/assurelatexmode.sty
+Part of XyMTeX for Drawing Chemical Structural Formulas. Version 5.01
+ -- Released May 27, 2013 by Shinsaku Fujita
+XyMTeX Macro File `assurelatexmode' (ver5.01) <May 27, 2013> [SF]
+) (/usr/share/texmf-dist/tex/latex/xymtex/chemist/chemist.sty
+Package `chemist' (ver5.01) <June 6, 2013> [SF]
+chemist.sty ver5.01 (for LaTeX2e) 2013/06/06[SF]
+\c@compd=\count128
+\c@deriv=\count129
+\reactarrowsep=\dimen112
+\verbatimleftmargin=\dimen113
+\verbatimbaselineskip=\dimen114
+\hsgr@d=\dimen115
+\vsgr@d=\dimen116
+\vwgr@d=\dimen117
+\hwgr@d=\dimen118
+\vsepgr@d=\dimen119
+\hsepgr@d=\dimen120
+\nrep=\count130
+\nrepmax=\count131
+\ybaselineshift=\dimen121
+\tbaselineshift=\dimen122
+\@savetbaselineshift=\dimen123
+LaTeX Info: Redefining \rm on input line 788.
+LaTeX Info: Redefining \mathversion on input line 892.
+\c@mv@chem=\count132
+LaTeX Font Info:    Encoding `OML' has changed to `OT1' for symbol font
+(Font)              `letters' in the math version `chem' on input line 965.
+LaTeX Font Info:    Overwriting symbol font `letters' in version `chem'
+(Font)                  OML/cmm/m/it --> OT1/cmr/m/n on input line 965.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `chem'
+(Font)                  OT1/cmr/m/n --> OT1/cmr/m/n on input line 965.
+LaTeX Font Info:    Overwriting symbol font `symbols' in version `chem'
+(Font)                  OMS/cmsy/m/n --> OMS/cmsy/m/n on input line 965.
+\c@mv@boldchem=\count133
+LaTeX Font Info:    Overwriting symbol font `operators' in version `boldchem'
+(Font)                  OT1/cmr/m/n --> OT1/cmr/bx/n on input line 965.
+LaTeX Font Info:    Encoding `OML' has changed to `OT1' for symbol font
+(Font)              `letters' in the math version `boldchem' on input line 965.
+
+LaTeX Font Info:    Overwriting symbol font `letters' in version `boldchem'
+(Font)                  OML/cmm/m/it --> OT1/cmr/b/n on input line 965.
+LaTeX Font Info:    Overwriting symbol font `symbols' in version `boldchem'
+(Font)                  OMS/cmsy/m/n --> OMS/cmsy/b/n on input line 965.
+\TestCount=\count134
+(/usr/share/texmf-dist/tex/latex/xymtex/chemist/assurechemist.sty
+Part of XyMTeX for Drawing Chemical Structural Formulas. Version 5.00
+ -- Released October 01, 2010 by Shinsaku Fujita
+XyMTeX Macro File `assurechemist' (ver5.00) <October 01, 2010> [SF]
+))) (./formula.aux)
+\openout1 = `formula.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 3.
+LaTeX Font Info:    ... okay on input line 3.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 3.
+LaTeX Font Info:    ... okay on input line 3.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 3.
+LaTeX Font Info:    ... okay on input line 3.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 3.
+LaTeX Font Info:    ... okay on input line 3.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 3.
+LaTeX Font Info:    ... okay on input line 3.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 3.
+LaTeX Font Info:    ... okay on input line 3.
+ (/usr/share/texmf-dist/tex/context/base/supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count135
+\scratchdimen=\dimen124
+\scratchbox=\box27
+\nofMPsegments=\count136
+\nofMParguments=\count137
+\everyMPshowfont=\toks14
+\MPscratchCnt=\count138
+\MPscratchDim=\dimen125
+\MPnumerator=\count139
+\makeMPintoPDFobject=\count140
+\everyMPtoPDFconversion=\toks15
+)
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <12> on input line 5.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <8> on input line 5.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <6> on input line 5.
+ [1
+
+{/usr/share/texmf-dist/fonts/map/pdftex/updmap/pdftex.map}] (./formula.aux) ) 
+Here is how much of TeX's memory you used:
+ 3863 strings out of 493308
+ 48317 string characters out of 6143589
+ 328622 words of memory out of 5000000
+ 7306 multiletter control sequences out of 15000+600000
+ 6683 words of font info for 24 fonts, out of 8000000 for 9000
+ 957 hyphenation exceptions out of 8191
+ 37i,6n,39p,255b,192s stack positions out of 5000i,500n,10000p,200000b,80000s
+</
+usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/share/texmf
+-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/share/texmf-dist/fonts/type
+1/public/amsfonts/latxfont/line10.pfb></usr/share/texmf-dist/fonts/type1/public
+/amsfonts/latxfont/linew10.pfb>
+Output written on formula.pdf (1 page, 21291 bytes).
+PDF statistics:
+ 24 PDF objects out of 1000 (max. 8388607)
+ 16 compressed objects within 1 object stream
+ 0 named destinations out of 1000 (max. 500000)
+ 1 words of extra memory for PDF output out of 10000 (max. 10000000)
+

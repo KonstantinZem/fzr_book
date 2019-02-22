@@ -1,0 +1,63 @@
+\documentclass{beamer}
+\usepackage{tikz} % LaTeX-рисунки
+\usepackage{ifthen} % условные операторы
+ 
+\usetikzlibrary{decorations.pathmorphing} % необходимые библиотеки
+
+\usepackage[active,tightpage]{preview} % разбиение анимации
+\PreviewEnvironment{tikzpicture}
+ 
+\newcounter{time}
+\def\maxtime{15}
+ 
+\newcommand{\nonafin}[1]{%
+  \begin{tikzpicture}
+       \def\rad{0.2}
+       \def\speed{0.03}
+       \def\xa{-1.5-1.00*#1*\speed}
+       \def\xb{-0.5+1.25*#1*\speed}
+       \def\xc{ 0.5+0.62*#1*\speed}
+       \def\xd{ 1.5+1.00*#1*\speed}
+ 
+       \useasboundingbox (-5,-0.5) rectangle (5,0.5);
+ 
+       \draw (\xa,0) -- (\xa,0.5);
+       \draw (\xb,0) -- (\xb,-0.5);
+       \draw (\xc,0) -- (\xc,0.5);
+       \draw (\xd,0) -- (\xd,-0.5);
+       \draw (\xa,0.4) -- (\xa+\rad,0.4);
+       \draw[line width = 0.5] (\xb,-0.4) -- (\xb+\rad,-0.4);
+       \draw (\xc,0.4) -- (\xc-\rad,0.4);
+       \draw[line width = 0.5] (\xd,-0.4) -- (\xd-\rad,-0.4);
+       \draw[line width = 0.5, decorate,decoration={coil,segment length=2*((\xc)-(\xa)-2*(\rad)-0.1)}] (\xa+\rad,0.4) -- (\xc-\rad,0.4);
+       \draw[line width = 0.7, decorate,decoration={coil,segment length=1.6*((\xd)-(\xb)-2*(\rad)-0.1)}] (\xb+\rad,-0.4) -- (\xd-\rad,-0.4);
+ 
+       \shade[ball color=black] (\xa,0) circle (\rad);
+       \shade[ball color=black] (\xb,0) circle (\rad);
+       \shade[ball color=black] (\xc,0) circle (\rad);
+       \shade[ball color=black] (\xd,0) circle (\rad);
+ 
+       \draw[line width = 0.2, color = black!50!green, decorate,decoration={coil,segment length=3*((\xb)-(\xa)-2*(\rad)-0.1)}] (\xa+\rad,0) -- (\xb-\rad,0);
+       \draw[line width = 0.5, decorate,decoration={coil,segment length=3*((\xc)-(\xb)-2*(\rad)-0.1)}] (\xb+\rad,0) -- (\xc-\rad,0);
+       \draw[line width = 1.0, decorate,decoration={coil,segment length=3*((\xd)-(\xc)-2*(\rad)-0.1)}] (\xc+\rad,0) -- (\xd-\rad,0);
+ 
+       \draw[color = red, line width = 1.0, <-] (\xa-\rad-#1*\speed-0.1,0) -- (\xa-\rad,0);
+       \draw[color = red, line width = 1.0, ->] (\xd+\rad,0) -- (\xd+\rad+#1*\speed+0.1,0);
+  \end{tikzpicture}
+}
+ 
+\begin{document}
+ 
+\setcounter{time}{0}
+\whiledo{\thetime < \maxtime}{%
+    \stepcounter{time}%
+    \nonafin{\thetime}%
+    \typeout{}%
+}%
+\whiledo{\thetime > 0}{%
+    \addtocounter{time}{-1}
+    \nonafin{\thetime}%
+    \typeout{}%
+}%
+ 
+\end{document}

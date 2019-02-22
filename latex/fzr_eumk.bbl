@@ -1,0 +1,178 @@
+\begin{thebibliography}{10}
+\def\selectlanguageifdefined#1{
+\expandafter\ifx\csname date#1\endcsname\relax
+\else\language\csname l@#1\endcsname\fi}
+\ifx\undefined\url\def\url#1{{\small #1}}\else\fi
+\ifx\undefined\BibUrl\def\BibUrl#1{\url{#1}}\else\fi
+\ifx\undefined\BibAnnote\long\def\BibAnnote#1{}\else\fi
+\ifx\undefined\BibEmph\def\BibEmph#1{\emph{#1}}\else\fi
+
+\bibitem{korowkin_gloss}
+\selectlanguageifdefined{english}
+Анатомия и морфология высших растений.
+  Словарь терминов~/ Ed. by О.А.~Коровкин. ---
+\newblock Москва: Дрофа, 2007.
+
+\bibitem{andreeva-bot}
+\selectlanguageifdefined{english}
+\BibEmph{Андреева,~И.И.} Ботаника~/ И.И.~Андреева,
+  Л.С.~Родман. ---
+\newblock 2-е издание, переработанное и
+  дополненное edition. ---
+\newblock Москва: КолосС, 2002.
+
+\bibitem{berezina_2009}
+\selectlanguageifdefined{english}
+\BibEmph{Березина,~Н.А.} Экология растений Учеб.
+  пособие для студентов высших Учеб.
+  заведений~/ Н.А.~Березина, Н.Б.~Афанасьева.
+  ---
+\newblock Издательский центр "Академия", 2009.
+
+\bibitem{gilarow}
+\selectlanguageifdefined{english}
+Биологический энциклопедический словарь~/
+  Ed. by С.М.~Гиляров. ---
+\newblock Москва: Советская энциклопедия, 1986.
+
+\bibitem{green_bio}
+\selectlanguageifdefined{english}
+\BibEmph{Грин,~Н.} Биология в 3-ох томах~/ Н.~Грин,
+  У~Стаут, Д~Тейлор; Ed. by Р~Сопер. ---
+\newblock Москва: Мир, 1990.
+
+\bibitem{zauralov_1995}
+\selectlanguageifdefined{english}
+\BibEmph{Зауралов,~О.А.} Краткий курс физиологии
+  и биохимии растений: учебник для
+  студентов с-х факультетов~/ О.А.~Зауралов.
+  ---
+\newblock Саранск: Издательство Мордовского
+  университета, 1995.
+
+\bibitem{karatygin_93}
+\selectlanguageifdefined{english}
+\BibEmph{Каратыгин,~И.В.} Коэволюция грибов и
+  растений~/ И.В.~Каратыгин. ---
+\newblock Гидрометеоиздат, 1993.
+
+\bibitem{korovkin_2007}
+\selectlanguageifdefined{english}
+\BibEmph{Коровкин,~О.А.} Анатомия и морфология
+  высших растений~/ О.А.~Коровкин. ---
+\newblock Дрофа, 2007.
+
+\bibitem{kosulina_93}
+\selectlanguageifdefined{english}
+\BibEmph{Косулина,~Л.Г.} Физиология
+  устойчивости растений к неблагоприятным
+  факторам сред~/ Л.Г.~Косулина, Э.К.~Луценко,
+  В.А.~and~Аксенова. ---
+\newblock Ростов-на-Дону, 1993.
+
+\bibitem{chem_kuzmenko_eremin}
+\selectlanguageifdefined{english}
+\BibEmph{Кузьменко,~Н.Е.} Начала химии.
+  Современный курс для поступления в вузы~/
+  Н.Е.~Кузьменко, В.В.~Еремин, В.А.~Попков. ---
+\newblock 7-е edition. ---
+\newblock Москва: Издательство "Экзамен", 2002.
+
+\bibitem{malinowsky_2004}
+\selectlanguageifdefined{english}
+\BibEmph{Малиновский,~В.И.} Физиология растений.
+  Учеб. пособие~/ В.И.~Малиновский. ---
+\newblock Владивосток: Изательство ДВГУ, 2004.
+
+\bibitem{medvedev_2012}
+\selectlanguageifdefined{english}
+\BibEmph{Медведев,~С.С.} Физиология растений:
+  учебник~/ С.С.~Медведев. ---
+\newblock СПб: БХВ-Петербург, 2012.
+
+\bibitem{metlitskiy_2013}
+\selectlanguageifdefined{english}
+\BibEmph{Метлицкий,~Л.В.} Как растения
+  защищаются от болезней~/ Л.В.~Метлицкий,
+  О.Л.~Озерецкая. ---
+\newblock Либроком, 2013.
+
+\bibitem{alberts_2013}
+\selectlanguageifdefined{english}
+Молекулярная биология клетки. В 3 томах~/
+  Брюс~Альбертс, Александр~Джонсон,
+  Джулиан~Льюис et~al.; Ed. by А~Миронов,
+  Л~Мочалова. ---
+\newblock Регулярная и хаотическая динамика and
+  Институт компьютерных исследований, 2013.
+
+\bibitem{polevoy_89}
+\selectlanguageifdefined{english}
+\BibEmph{Полевой,~В.В.} Физиология растений~/
+  В.В.~Полевой. ---
+\newblock Высшая школа, 1989.
+
+\bibitem{vorob_2013}
+\selectlanguageifdefined{english}
+Практикум по физиологии растений:
+  учебно-методическое пособие~/
+  В.Н.~Воробьев, Ю.Ю.~Невмержицкая,
+  Л.З.~Хуснетдинова, Т.П.~Якушенкова. ---
+\newblock Казанский университет, 2013.
+
+\bibitem{rubin_71}
+\selectlanguageifdefined{english}
+\BibEmph{Рубин,~Б.А.} Курс физиологии растений~/
+  Б.А.~Рубин. ---
+\newblock Москва: Высшая школа, 1971.
+
+\bibitem{sonin_bio}
+\selectlanguageifdefined{english}
+\BibEmph{Сонин,~Н.И.} Биология. Многообразие
+  живых организмов. 7 класс~/ Н.И.~Сонин,
+  В.Б.~Захаров. ---
+\newblock Москва: Дрофа, 2013.
+
+\bibitem{stier_85}
+\selectlanguageifdefined{english}
+\BibEmph{Страйер,~Л}. Биохимия. В 3-х томах~/
+  Л~Страйер. ---
+\newblock Мир, 1985.
+
+\bibitem{stromberg_2006}
+\selectlanguageifdefined{english}
+\BibEmph{Стромберг,~А.Г.} Физическая химия :
+  учебник для студентов вузов по хим.
+  специальностям.~/ А.Г.~Стромберг. ---
+\newblock 2006.
+
+\bibitem{tretiakow_fzr}
+\selectlanguageifdefined{english}
+\BibEmph{Третьяков,~Н.Н.} Практикум по
+  физиологии растений~/ Н.Н.~Третьяков,
+  Т.В.~Карнаухова, Л.А.~Паиичкин; Ed. by
+  Е.В.~Кирсанова. ---
+\newblock М.: Агропромиздат, 1990.
+
+\bibitem{fzr_ermakov}
+\selectlanguageifdefined{english}
+Физиология растений~/ М.Д.~Алехина,
+  Ю.В.~Балнокин, В.Ф.~Гавриленко et~al.; Ed. by
+  И.П.~Ермаков. ---
+\newblock Москва: Издательский центр "Академия",
+  2005.
+
+\bibitem{urin_2010}
+\selectlanguageifdefined{english}
+\BibEmph{Юрин,~В.М.} Физиология растений.
+  Учебник~/ В.М.~Юрин. ---
+\newblock Минск: БГУ, 2010.
+
+\bibitem{fzr_jakushina}
+\selectlanguageifdefined{english}
+\BibEmph{Якушкина,~Н.И.} Физиология растений.
+  Учеб. пособие для студентов биол. спец,
+  пед. ин-тов~/ Н.И.~Якушкина. ---
+\newblock Москва: Просвещение, 1980.
+
+\end{thebibliography}

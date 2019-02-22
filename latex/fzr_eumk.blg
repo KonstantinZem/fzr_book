@@ -1,0 +1,46 @@
+This is BibTeX, Version 0.99d (TeX Live 2012/ROSA)
+Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
+The top-level auxiliary file: fzr_eumk.aux
+The style file: utf8gost780s.bst
+Database file #1: unver_lib.bib
+You've used 24 entries,
+            2908 wiz_defined-function locations,
+            790 strings with 9658 characters,
+and the built_in function-call counts, 8046 in all, are:
+= -- 1008
+> -- 277
+< -- 44
++ -- 105
+- -- 81
+* -- 342
+:= -- 1135
+add.period$ -- 69
+call.type$ -- 24
+change.case$ -- 0
+chr.to.int$ -- 0
+cite$ -- 24
+duplicate$ -- 392
+empty$ -- 888
+format.name$ -- 100
+if$ -- 2089
+int.to.chr$ -- 0
+int.to.str$ -- 24
+missing$ -- 0
+newline$ -- 132
+num.names$ -- 91
+pop$ -- 239
+preamble$ -- 1
+purify$ -- 84
+quote$ -- 0
+skip$ -- 170
+stack$ -- 0
+substring$ -- 140
+swap$ -- 152
+text.length$ -- 0
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 0
+warning$ -- 0
+while$ -- 47
+width$ -- 26
+write$ -- 362
